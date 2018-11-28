@@ -1,0 +1,4 @@
+#DESCOMENTE ABAIXO PARA HABILITAR O CONTEXTO CORRETO DA APLICACAO
+#server:
+#  servlet:
+#    context-path: /jx/
